@@ -7,7 +7,7 @@
 </head>
 <body>
 	<div class="marco">
-		<img src="images/Cabecera.jpg" style="width: 100%; height: auto;" />
+		<img src="images/Cabecera.jpg" style="width: 100%; height: auto" target ="_blank"  border="3" />
 		<table>
 		<tr>
 		<th style="width: 400px; text-align: left;">For data scientist</th>
@@ -39,7 +39,7 @@
 		<?php }  
 		$conn->close();
 		?> 
-		<img src="images/Pie.jpg" style="width: 100%; height: auto;" />
+		<img src="images/Pie.jpg" style="width: 100%; height: auto" target ="_blank"  border="3" />
 	</div>
 </body>
 </html>
